@@ -1,4 +1,4 @@
-<img src="https://github.com/Oleksii-Mospan/cinema-app/blob/dev/src/main/resources/logo.png?raw=true" alt="Logo of the project" align="right">
+<img src="https://github.com/Oleksii-Mospan/cinema-app/blob/main/src/main/resources/logo.png?raw=true" alt="Logo of the project" align="right">
 
 # Cinema-app &middot;
 [![version](https://img.shields.io/badge/version-1.0.0-yellowgreen.svg)](https://semver.org)
