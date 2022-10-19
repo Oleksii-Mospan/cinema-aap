@@ -117,6 +117,7 @@ Some features I learned while programming this project:
 - Using Session to store some information
 - Using Dependency Injection for creating instances
 - Working with Postman API Platform 
+- Working with Git
 - Creating README.md file
 - Creating diagrams using [mermaid](https://mermaid-js.github.io/mermaid/#/) tool
 
